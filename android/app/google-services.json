@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588772536155",
+    "firebase_url": "https://androideats-448ac.firebaseio.com",
+    "project_id": "androideats-448ac",
+    "storage_bucket": "androideats-448ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588772536155:android:2003cda8597aadda95f47e",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588772536155-ku4b0csgn76f9eciab5a5b2ekdm6nnsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBZDigD_8QwzHfrm38mYn4Ntt0-teIt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588772536155-ku4b0csgn76f9eciab5a5b2ekdm6nnsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
