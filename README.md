@@ -1,16 +1,8 @@
 # firebaselogin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A flutter app with basic log in and sign up functionalities using firebase as backend and hive for local database.
+ ## Screenshots
+ 
+![Screenshot (68)](https://user-images.githubusercontent.com/68328887/119747821-0110e180-be40-11eb-98fa-64a821c8e880.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/68328887/119747851-10902a80-be40-11eb-874f-9aa778f4220b.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/68328887/119747881-1e45b000-be40-11eb-8b79-05f2c5a9da02.png)
